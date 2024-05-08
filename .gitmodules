@@ -1,0 +1,9 @@
+[submodule "Plugins/FactsManager"]
+	path = Plugins/FactsManager
+	url = https://github.com/MaksymKapelianovych/FactsManager
+[submodule "Plugins/FlowFacts"]
+	path = Plugins/FlowFacts
+	url = https://github.com/MaksymKapelianovych/FlowFacts
+[submodule "Plugins/FlowGraph"]
+	path = Plugins/FlowGraph
+	url = https://github.com/MothCocoon/FlowGraph
